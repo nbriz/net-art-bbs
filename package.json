@@ -1,0 +1,12 @@
+{
+  "name": "net-art-bbs",
+  "version": "1.0.0",
+  "description": "a bbs for net art class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nick Briz <nbriz@saic.edu>",
+  "license": "GPL-3.0"
+}
